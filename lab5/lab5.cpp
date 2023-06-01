@@ -11,6 +11,8 @@ public:
 		this->H = H;
 	}
 
+	~Hexagonal_Prisma() {}
+
 	double get_base_area() {
 		return 3.0 * sqrt(3.0 / 2.0) * R;
 	}
