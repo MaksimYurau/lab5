@@ -133,6 +133,7 @@
     <ClInclude Include="Body.h" />
     <ClInclude Include="Cub.h" />
     <ClInclude Include="Parallelepiped.h" />
+    <ClInclude Include="Piramida.h" />
     <ClInclude Include="Prisma.h" />
     <ClInclude Include="Shar.h" />
   </ItemGroup>
