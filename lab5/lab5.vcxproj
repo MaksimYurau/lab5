@@ -131,6 +131,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Body.h" />
+    <ClInclude Include="Conus.h" />
     <ClInclude Include="Cub.h" />
     <ClInclude Include="Parallelepiped.h" />
     <ClInclude Include="Piramida.h" />
