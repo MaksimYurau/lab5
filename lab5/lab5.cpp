@@ -12,8 +12,7 @@ public:
 	}
 
 	double get_base_area() {
-		double a = 3.0 * sqrt(3.0 / 2.0) * R;
-		return a;
+		return 3.0 * sqrt(3.0 / 2.0) * R;
 	}
 
 	double get_lateral_area() {
