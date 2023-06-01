@@ -71,3 +71,4 @@ https://github.com/MaksimYurau/lab5/commits/master
 
 Видеофайл с демонстрацией работы программы:
 
+https://drive.google.com/file/d/1GpgVFfA56-Fdzx-PPwpHFZyMwDdFxIQT/view?usp=sharing
